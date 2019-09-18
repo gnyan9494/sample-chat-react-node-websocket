@@ -2,7 +2,6 @@
   "name": "web-socket",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
   "dependencies": {
     "ws": "^7.1.2"
   },
