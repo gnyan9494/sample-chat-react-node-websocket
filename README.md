@@ -1,5 +1,13 @@
 # A Simple Chat App With React, Node and WebSockets
 
-Check out the blog post related to this repo here:
+fronend folder contains react code (UI code)
 
-https://blog.bitlabstudio.com/a-simple-chat-app-with-react-node-and-websocket-35d3c9835807
+Steps to run: 
+1. npm i
+2. npm start
+
+backend folder contains node code (server code)
+
+Steps to run: 
+1. npm i
+2. npm start
