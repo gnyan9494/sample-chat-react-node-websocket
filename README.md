@@ -1,6 +1,6 @@
 # A Simple Chat App With React, Node and WebSockets
 
-fronend folder contains react code (UI code)
+frontend folder contains react code (UI code)
 
 Steps to run: 
 1. npm i
